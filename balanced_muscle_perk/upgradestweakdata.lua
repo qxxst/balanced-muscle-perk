@@ -1,0 +1,10 @@
+local module = ... or D:module('balanced_muscle_perk')
+local UpgradesTweakData = module:hook_class("UpgradesTweakData")
+
+module:post_hook(UpgradesTweakData, "_player_definitions", function(self)
+	self.values.player.__pd2_muscle_more_hp = 1.8 -- Total HP multiplier after buffs (originally 1.8)
+	self.values.player.__pd2_muscle_regen_hp = 0.006 -- The proportion of health restored at the intervals defined below (originally 0.03)
+	self.values.player.__pd2_muscle_regen_hp_dt = 1 -- The interval, in seconds, at which the above proportion of health is restored (originally 5)
+	self.values.player.__pd2_muscle_panic_suppression_rate = 0.001 -- Probability of firearms making enemies surrender (originally 0.35)
+	self.values.player.__pd2_muscle_panic_suppression_dis = 1500 -- Unknown. Assumed to be the distance at which firearms can force enemies to surrender (originally 1500)
+end, true)
