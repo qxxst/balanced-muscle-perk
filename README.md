@@ -19,3 +19,11 @@ Please keep in mind that these values are still subject to change in the future.
 This fork is intended to correct balancing issues with the original mod. Notably, the probability that an enemy would be intimidated upon hearing your firearm was originally 0.35 - a 35% chance. This was extremely broken with automatic weapons, leading to situations where entire rooms of enemies would immediately surrender after only a few shots had been fired. I also lowered the range at which enemies can be intimidated by firearms.
 
 The goal of this fork is to allow for a passive health regeneration mechanic, as well as easier accumulation of new hostages via the random surrender mechanic, *without* completely trivializing gameplay as the original mod did.
+
+This mod still has three issues that I would like to correct in the future:
+1. When using the mod, a glaring blue effect will occasionally show up.
+2. The probability of intimidating enemies is the same for all firearms, and applies to each individual shot fired - making automatic firearms and/or firearms with a high rate of fire perform drastically better.
+
+The lowered probability prevents automatic firearms from being overpowered, but also means that non-automatic firearms are extremely unlikely to trigger the effect.
+
+3. The random surrender mechanic works on special units like Bulldozers and Tasers.
