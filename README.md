@@ -12,7 +12,7 @@ When using this mod:
 Please keep in mind that these values are still subject to change in the future. You can change them to be whatever you want by editing the five variables in **upgradestweakdata.lua**.
 ## Installation
 1. Install [DorHUD](https://modworkshop.net/mod/14267).
-2. Download the latest version of the mod from the [releases](https://github.com/questmatrix/balanced-muscle-perk/releases) page. There aren't any there yet, but there will be soon.
+2. Download the latest version of the mod from the [releases](https://github.com/questmatrix/balanced-muscle-perk/releases) page.
 3. Extract the zipped folder and move the **balanced_muscle_perk** folder to your PAYDAY The Heist\mods folder.
 4. Make sure the module is enabled in your mod manager settings. It should look like this: ![](mod_listing_preview.png)
 ## Changes
