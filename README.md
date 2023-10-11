@@ -14,7 +14,9 @@ Please keep in mind that these values are still subject to change in the future.
 1. Install [DorHUD](https://modworkshop.net/mod/14267).
 2. Download the latest version of the mod from the [releases](https://github.com/questmatrix/balanced-muscle-perk/releases) page.
 3. Extract the zipped folder and move the **balanced_muscle_perk** folder to your PAYDAY The Heist\mods folder.
-4. Make sure the module is enabled in your mod manager settings. It should look like this: ![](mod_listing_preview.png)
+4. Make sure the module is enabled in your mod manager settings. It should look like this:
+
+![](mod_listing_preview.png)
 ## Changes
 This fork is intended to correct balancing issues with the original mod. Notably, the probability that an enemy would be intimidated upon hearing your firearm was originally 0.35 - a 35% chance. This was extremely broken with automatic weapons, leading to situations where entire rooms of enemies would immediately surrender after only a few shots had been fired. I also lowered the range at which enemies can be intimidated by firearms.
 
