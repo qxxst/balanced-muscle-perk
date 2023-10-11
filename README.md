@@ -9,7 +9,9 @@ When using this mod:
 - Each shot from your firearms has a 0.1% chance of intimidating nearby enemies, forcing them to surrender.
   - You can then yell at them to cuff themselves like normal.
 
-You can change these numbers to be whatever you want by editing the five variables in **upgradestweakdata.lua**. This mod does not include any effects from the other Perk Deck mods.
+You can change these numbers to be whatever you want by editing the five variables in **upgradestweakdata.lua**. For context, I have also added comments next to each variable that briefly explain what it does and what its previous value was in the original mod, such as `Probability of firearms making enemies surrender (originally 0.35)`. 
+
+This mod does not include any effects from the other Perk Deck mods. If you're interested in that, check out the [Hybrid Perk Deck](https://github.com/questmatrix/hybrid-perk-deck).
 ## Installation
 1. Install [DorHUD](https://modworkshop.net/mod/14267).
 2. Download the latest version of the mod from the [releases](https://github.com/questmatrix/balanced-muscle-perk/releases) page.
