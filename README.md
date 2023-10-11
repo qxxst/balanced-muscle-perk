@@ -6,7 +6,7 @@ This mod makes PD:TH significantly easier by increasing your maximum health, giv
 When using this mod:
 - You will have 80% extra base health.
 - You will passively regenerate 0.6% of your health every second.
-- All firearms have a 0.1% chance of intimidating nearby enemies, forcing them to surrender.
+- Each shot from your firearms has a 0.1% chance of intimidating nearby enemies, forcing them to surrender.
   - You can then yell at them to cuff themselves like normal.
 
 You can change these numbers to be whatever you want by editing the five variables in **upgradestweakdata.lua**. This mod does not include any effects from the other Perk Deck mods.
