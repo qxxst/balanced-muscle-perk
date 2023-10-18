@@ -2,7 +2,7 @@ local module = DMod:new("balanced_muscle_perk", {
 	abbr = "muscledeckfork",
 	author = "questmatrix",
 	description = "https://github.com/questmatrix/balanced-muscle-perk",
-	version = "1"
+	version = "1.1"
 })
 
 module:hook_post_require("lib/units/beings/player/playerdamage", "playerdamage")
