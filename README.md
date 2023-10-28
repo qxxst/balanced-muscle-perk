@@ -4,6 +4,10 @@ A properly balanced fork of Dr_Newbie's [Muscle Perk Deck](https://modworkshop.n
 This mod makes PD:TH significantly easier by increasing your maximum health, giving passive health regeneration, and adding a small chance for nearby enemies to immediately surrender upon firing your weapon.
 
 This mod has been superseded by the [Hybrid Perk Deck](https://github.com/questmatrix/hybrid-perk-deck). I won't be actively updating it anymore, but I'll leave it available to download if people prefer this version. Feel free to create a pull request if necessary.
+## Disclaimer
+**THIS MOD IS A CHEAT.** It makes the game easier. Don't use it in public servers.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## Effects
 When using this mod:
 - You will have 80% extra base health.
