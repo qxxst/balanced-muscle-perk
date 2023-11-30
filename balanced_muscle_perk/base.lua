@@ -1,7 +1,7 @@
 local module = DMod:new("balanced_muscle_perk", {
 	abbr = "muscledeckfork",
-	author = "questmatrix",
-	description = "https://github.com/questmatrix/balanced-muscle-perk",
+	author = "qxxst",
+	description = "https://github.com/qxxst/balanced-muscle-perk",
 	version = "1.1"
 })
 
